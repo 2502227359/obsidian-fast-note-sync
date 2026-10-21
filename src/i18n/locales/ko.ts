@@ -569,5 +569,6 @@ export default {
   "ui.conflict.final_title": "충돌 해결 내용",
   "ui.conflict.use_local": "로컬 사용->",
   "ui.conflict.use_remote": "원격 사용->",
+  "ui.conflict.diff_skipped": "파일이 커서 줄 단위 차이 비교를 건너뛰었습니다. 위 버튼으로 로컬/원격 버전을 선택하거나 오른쪽 편집기에서 직접 편집하세요.",
   "ui.log.action.NoteManualMergeConflict": "노트 내용 충돌",
 };

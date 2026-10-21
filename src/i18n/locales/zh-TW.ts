@@ -569,5 +569,6 @@ export default {
   "ui.conflict.final_title": "解決衝突內容",
   "ui.conflict.use_local": "使用本地->",
   "ui.conflict.use_remote": "使用遠端->",
+  "ui.conflict.diff_skipped": "檔案較大，已略過逐行差異對比。可點擊上方按鈕選用本地/遠端版本，或在右側編輯器直接編輯。",
   "ui.log.action.NoteManualMergeConflict": "筆記內容衝突",
 };

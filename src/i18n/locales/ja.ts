@@ -569,5 +569,6 @@ export default {
   "ui.conflict.final_title": "競合解決コンテンツ",
   "ui.conflict.use_local": "ローカルを使用->",
   "ui.conflict.use_remote": "リモートを使用->",
+  "ui.conflict.diff_skipped": "ファイルが大きいため、行ごとの差分比較をスキップしました。上のボタンでローカル/リモート版を選択するか、右側のエディターで直接編集してください。",
   "ui.log.action.NoteManualMergeConflict": "ノート内容の競合",
 };
